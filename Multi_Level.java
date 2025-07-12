@@ -1,4 +1,3 @@
-
 class A{
     public void methodOfA(){
         System.out.println("This method belongs to A");
