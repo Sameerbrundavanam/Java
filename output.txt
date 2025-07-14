@@ -1,5 +1,4 @@
-514.0 514
-I'm a type of computer, they call me laptop
-I'm a type of computer, they call me laptop
-I can i do anything, except make you productive
-Sorry bruhh !!!! 
+10
+10
+The explictly unboxed value is: 10
+The auto unboxed value is: 10
