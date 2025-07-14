@@ -1,4 +1,1 @@
-10
-10
-The explictly unboxed value is: 10
-The auto unboxed value is: 10
+This is the overriden method using an abstract class
