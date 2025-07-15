@@ -1,1 +1,1 @@
-This is the example usage of an Abstract Anonymous Inner Class
+This is the overrided method of A
