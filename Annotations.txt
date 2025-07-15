@@ -1,0 +1,21 @@
+
+Annotations are like metadata — extra information for the compiler, tools, or runtime environment.
+They don’t directly affect program logic, but they influence how the code is treated.
+
+Annotation        | Meaning / Purpose
+------------------|---------------------------------------------------------------
+@Override         | Tells compiler you're overriding a superclass method.
+@Deprecated       | Marks a method/class as outdated and not recommended for use.
+@SuppressWarnings | Tells compiler to ignore specific warnings (e.g., unchecked, deprecation).
+@Retention        | Specifies how long the annotation is retained (SOURCE, CLASS, or RUNTIME).
+@Target           | Specifies where the annotation can be applied (class, method, field, etc).
+@Documented       | Ensures the annotation is included in the generated Javadoc.
+@Inherited        | Allows subclasses to inherit the annotation from a superclass.
+@Bean             | (Spring Framework) Declares a method as a Spring-managed bean.
+
+
+Retention Policy  | Description
+------------------|-------------------------------------------------------------
+SOURCE            | Annotation is discarded by the compiler, not in the .class file.
+CLASS             | Stored in .class file but not available at runtime.
+RUNTIME           | Stored in .class file and available at runtime via reflection.
