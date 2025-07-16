@@ -1,4 +1,10 @@
-class CA
-The Exception occured is: java.lang.ArithmeticException: / by zero
-The Program is successfully executed
-MyException: You're Fucked up!!!
+0
+0
+0
+1
+1
+1
+2
+2
+2
+3
