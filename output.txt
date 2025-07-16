@@ -1,13 +1,1 @@
-You're Hacked mf!!!!
-The Bug is assigned to someone for resolving
-Sameer's team is currently working on it
-5
-You're Hacked mf!!!!
-You're Hacked mf!!!!
-You're Hacked mf!!!!
-You're Hacked mf!!!!
-You're Hacked mf!!!!
-You're Hacked mf!!!!
-You're Hacked mf!!!!
-You're Hacked mf!!!!
-Assigned
+This is an example of functional interface in java
