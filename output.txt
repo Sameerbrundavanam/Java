@@ -1,1 +1,1 @@
-This is an example of functional interface in java
+9
